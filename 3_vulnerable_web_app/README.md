@@ -23,3 +23,8 @@ using a deliberately vulnerable application in a controlled environment.
 ## Ethical Statement
 All testing was performed on systems created for learning purposes.
 No real-world systems were targeted.
+### 3️⃣ Vulnerable Web Application Security Lab
+- Tested a deliberately vulnerable web application in a controlled environment
+- Identified OWASP Top 10 vulnerabilities (SQL Injection, XSS, Command Injection)
+- Documented findings, risks, and mitigations in a professional lab report  
+📁 Folder: `3_vulnerable_web_app`
