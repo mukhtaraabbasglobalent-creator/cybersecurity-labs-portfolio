@@ -1,29 +1,55 @@
-# Kali Linux Virtual Machine Lab
+# Cybersecurity Labs Portfolio
 
-## Objective
-Set up a Kali Linux virtual machine for safe penetration testing practice.
+This repository contains my hands-on cybersecurity practice labs.
+It demonstrates practical skills in ethical hacking, system security,
+and defensive security using real tools and documented workflows.
 
-## Environment
-- Host OS: (your system)
-- Virtualization: VirtualBox / VMware
-- Guest OS: Kali Linux
+---
 
-## Steps Performed
-1. Download Kali Linux ISO
-2. Create a new virtual machine
-3. Install Kali Linux
-4. Update system packages
-5. Verify basic security tools
+## About Me
+I am an aspiring cybersecurity professional focused on practical learning.
+I am building real-world skills through labs, documentation, and continuous practice.
 
-## Tools Used
+---
+
+## Skills & Tools
 - Kali Linux
-- Linux Terminal
-- Nmap
+- Linux Command Line
+- Networking Fundamentals
+- Nmap (Network Scanning)
+- Metasploit Framework
+- Virtual Machines (VirtualBox / VMware)
+- Git & GitHub Documentation
 
-## Outcome
-- Kali Linux installed successfully
-- VM running without errors
-- Ready for penetration testing labs
+---
 
-## Notes
-Performed in an isolated environment for learning purposes only.
+## Labs Completed
+
+### 1️⃣ Kali Linux Virtual Machine Lab
+- Installed and configured Kali Linux in a virtual machine
+- Verified core security tools
+- Documented setup, screenshots, and report  
+📁 Folder: `1_kali_vm_lab`
+
+---
+
+## How This Portfolio Is Used
+- Each lab includes:
+  - README with steps performed
+  - Screenshots as proof of execution
+  - Lab report with results and lessons learned
+- All labs are conducted in a **legal and controlled environment**
+
+---
+
+## Next Labs (In Progress)
+- Network Scanning with Nmap
+- Vulnerable Web Application Testing
+- Basic Exploitation & Hardening
+- SOC / Blue Team Fundamentals
+
+---
+
+## Legal & Ethical Notice
+All activities in this repository are for **educational purposes only**
+and are conducted in isolated environments that I own or have permission to test.
